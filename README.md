@@ -1,4 +1,5 @@
 ##Breast Cancer Classification with SVM using scikit-learn
+
 This project explores the Support Vector Machine (SVM) algorithm for breast cancer classification using the scikit-learn library in Python. The goal is to predict whether a breast tumor is malignant or benign based on features extracted from digitized images of breast cancer biopsies.
 
 Project Structure:
